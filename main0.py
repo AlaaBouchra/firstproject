@@ -6,6 +6,9 @@ import random
 # Initialize the Pygame library
 pygame.init()                
 
+
+
+
 # Define color constants
 yellow = (255, 255, 102)
 black = (0, 0, 0)
