@@ -6,15 +6,13 @@ import random
 # Initialize the Pygame library
 pygame.init()                
 
-
-
-
 # Define color constants
 yellow = (255, 255, 102)
 black = (0, 0, 0)
 red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
+#edit test
 
 # Set both the width and height of the game window
 dis_width = 600              
