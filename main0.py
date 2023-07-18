@@ -13,7 +13,6 @@ red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
-
 # Set both the width and height of the game window
 dis_width = 600              
 dis_height = 400             
